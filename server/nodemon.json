@@ -1,0 +1,5 @@
+{
+  "ignore": ["cloned_repos/*", "cloned_repos/**/*"],
+  "watch": ["*.js", "routes/", "controllers/", "middleware/", "utils/", "config/"],
+  "ext": "js,json"
+}
